@@ -8,13 +8,13 @@ A collection of small data analysis projects. Each folder includes a Jupyter not
 
 [Open the notebook](<indian-liver-patient/Indian Liver Patient Dataset.ipynb>) · [Open the CSV](<indian-liver-patient/Indian Liver Patient Dataset (Raw).csv>)
 
-I explore the 584 patient records by status, age, and gender, then compare a few lab measurements. I also corrected the source file’s misaligned column labels before analyzing it. The results are descriptive and are not for medical use.
+I explore the 583 patient records by status, age, and gender, then compare a few lab measurements. I also corrected the source file’s misaligned column labels before analyzing it. The results are descriptive and are not for medical use.
 
 ### Netflix titles
 
-[Open the notebook](<Netflix data set/Netflix Data.ipynb>) · [Open the CSV](<Netflix data set/netflix_titles.csv>)
+[Open the notebook](<Netflix data set/Netflix Data.ipynb>) · [Open the dashboard](<Netflix data set/Netflix Catalog Dashboard.html>) · [Open the CSV](<Netflix data set/netflix_titles.csv>)
 
-I compare movies and TV shows, look at common ratings and country metadata, and chart titles by year added. The 8,807-row file is a snapshot, so it does not represent Netflix’s current catalog.
+I compare movies and TV shows, check common ratings and countries, and chart titles by year added. The dashboard gives a quick visual summary, with a filter for movies and TV shows. Open the HTML file in a browser to use it. The 8,807-row file is a snapshot, so it does not represent the current catalog.
 
 ## Running the notebooks
 
