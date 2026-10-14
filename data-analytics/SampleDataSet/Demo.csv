@@ -1,0 +1,61 @@
+Order ID,Region,Sales Channel,Product Category,Units Sold,Unit Price,Discount %,Delivery Days,Customer Rating,Returned?,Order Month
+ORD-1001,WEST,Retail,Stationery,6,299,5%,4,3,No,Jun
+ORD-1002,WEST,Online,Home Essentials,30,499,0%,8,3,No,Feb
+ORD-1003,West,Partner,Personal Care,22,499,15%,2,5,No,Mar
+ORD-1004,north,Online,Electronics,14,199,20%,6,5,No,Mar
+ORD-1005,East,Partner,Office Supplies,10,199,5%,10,2,Yes,Mar
+ORD-1006,north,Partner,Electronics,13,199,20%,8,3,Yes,Apr
+ORD-1007,NORTH,Partner,Stationery,5,799,20%,5,5,No,Feb
+ORD-1008,north,Online,Office Supplies,21,299,10%,6,5,No,Feb
+ORD-1009,West,Online,Electronics,19,199,15%,6,4,No,Jun
+ORD-1010,north,Retail,Electronics,8,499,0%,1,4,No,Jun
+ORD-1011,East,Retail,Personal Care,25,199,0%,2,4,No,Jun
+ORD-1012,West,Retail,Stationery,16,999,20%,7,4,No,Feb
+ORD-1013,East,online,Electronics,10,299,10%,2,5,No,Jun
+ORD-1014,North,Retail,Stationery,1,1499,15%,7,5,No,Apr
+ORD-1015,East,Retail,Personal Care,13,1499,10%,6,5,No,Jan
+ORD-1016,West,Online,Personal Care,15,2499,0%,3,3,No,May
+ORD-1017,WEST,Partner,Home Essentials,15,299,5%,1,3,No,Jan
+ORD-1018,North,Online,Office Supplies,18,1499,15%,1,3,No,Mar
+ORD-1019,North,Online,Office Supplies,5,2499,20%,2,5,No,Apr
+ORD-1020,north,Partner,Electronics,18,1499,15%,8,2,Yes,Jun
+ORD-1021,South,Retail,Office supply,7,999,5%,3,3,No,Apr
+ORD-1022,East,Retail,Home Essentials,21,999,5%,4,3,No,Mar
+ORD-1023,WEST,Partner,Stationery,20,299,10%,8,1,Yes,Apr
+ORD-1024,north,Partner,Personal Care,19,499,15%,3,3,No,Feb
+ORD-1025,South,Online,Home Essentials,1,299,10%,5,4,No,Jun
+ORD-1026,north,Online,Electronics,17,299,10%,8,2,Yes,May
+ORD-1027,north,Retail,Home Essentials,12,2499,5%,9,2,Yes,Jan
+ORD-1028,East,Retail,Personal Care,12,799,15%,10,1,Yes,Jan
+ORD-1029,South,Partner,Office Supplies,25,2499,10%,9,3,No,Mar
+ORD-1030,South,Partner,Stationery,7,499,5%,,5,No,May
+ORD-1031,South,Partner,Electronics,20,1499,10%,3,4,No,May
+ORD-1032,West,Retail,Home Essentials,10,2499,20%,3,4,No,May
+ORD-1033,North,Online,Home Essentials,16,199,5%,9,2,Yes,Jun
+ORD-1034,South,Partner,Electronics,4,999,0%,6,5,No,Jun
+ORD-1035,South,Partner,Stationery,25,299,20%,4,4,No,Feb
+ORD-1036,north,Retail,Home Essentials,25,499,15%,7,,No,Jan
+ORD-1037,West,Partner,Electronics,15,299,15%,4,5,No,May
+ORD-1038,North,Retail,Home Essentials,18,199,20%,9,3,No,Feb
+ORD-1039,WEST,Retail,Electronics,19,299,5%,1,4,No,May
+ORD-1040,West,Partner,Office Supplies,5,1499,5%,6,5,No,Mar
+ORD-1041,West,Online,Office Supplies,12,799,20%,5,5,No,Feb
+ORD-1042,East,Retail,Home Essentials,17,999,20%,4,5,No,May
+ORD-1043,North,Retail,Office Supplies,24,199,5%,6,5,No,May
+ORD-1044,West,Online,Stationery,1,499,5%,7,5,No,Jun
+ORD-1045,South,Retail,Office Supplies,7,2499,0%,7,4,No,Feb
+ORD-1046,north,Retail,Office Supplies,8,799,5%,3,5,No,Apr
+ORD-1047,North,Partner,Office Supplies,4,999,10%,7,4,No,May
+ORD-1048,West,Online,Electronics,17,1499,20%,10,2,Yes,Mar
+ORD-1049,North,Retail,Office Supplies,25,2499,5%,1,5,No,Jun
+ORD-1050,West,Partner,Office Supplies,9,199,5%,10,2,Yes,Mar
+ORD-1051,North,Partner,Stationery,9,199,10%,9,2,No,Jun
+ORD-1052,north,Partner,Stationery,12,1499,10%,3,5,No,May
+ORD-1053,South,Online,Home Essentials,24,299,15%,7,4,No,May
+ORD-1054,North,Retail,Electronics,13,199,10%,7,3,No,Apr
+ORD-1055,North,Retail,Home Essentials,7,799,10%,3,5,No,May
+ORD-1056,North,Online,Home Essentials,19,499,0%,3,3,No,May
+ORD-1057,north,Online,Home Essentials,7,1499,10%,9,2,Yes,Feb
+ORD-1058,West,Retail,Stationery,7,999,15%,1,3,No,Jun
+ORD-1059,East,Online,Home Essentials,7,2499,15%,3,3,No,Mar
+ORD-1019,North,Online,Office Supplies,5,2499,20%,2,5,No,Apr
